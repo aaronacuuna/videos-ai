@@ -1,0 +1,21 @@
+# Secretos
+.env
+*.env
+client_secret*.json
+token*.json
+credentials*.json
+
+# Material pesado (va fuera del repo)
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.flac
+*.mp3
+render/
+output/
+
+# Sistema
+.DS_Store
+Thumbs.db
+__pycache__/
